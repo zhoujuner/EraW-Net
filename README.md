@@ -17,7 +17,7 @@ Official repository for **EraW-Net: Enhance-Refine-Align W-Net for Scene-Associa
 ## Ground Truth (GT)
 
 The GT files are organized as follows:
-
+```text
 LBW_GT/
 ├── Subject01_2_data/
 │   ├── s_g/       # Gaze-Projected Heatmap
@@ -29,6 +29,7 @@ LBW_GT/
 │   ├── s_g/
 │   └── fix_map/
 └── ...
+```
 
 Here, /s_g corresponds to the Gaze-Projected Heatmap, and /fix_map corresponds to the Sequential Fixation Heatmap described in the paper. 
 
