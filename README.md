@@ -9,7 +9,7 @@ Official repository for **EraW-Net: Enhance-Refine-Align W-Net for Scene-Associa
 ## News
 
 - **[Available]** Ground-truth attention maps.
-- **[Available]** Official dataset split files.
+- **[Available]** Dataset split files.
 - **[Available]** Evaluation code.
 - **[Coming Soon]** Training and inference code.
 ---
