@@ -58,12 +58,7 @@ The provided `train_test_spilt_all.json` contains the complete split. Users can 
 
 We provide the evaluation scripts used in our experiments.
 
-Currently supported metrics include:
-
-- CC
-- SIM
-- NSS
-- KLD
+Currently supported metrics include:CC, SIM, NSS, KLD. 
 
 
 ## Code
