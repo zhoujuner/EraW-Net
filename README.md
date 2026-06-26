@@ -68,16 +68,7 @@ Currently supported metrics include:
 
 ## Code
 
-The complete implementation, including
-
-- Training
-- Inference
-- Model weights
-- Data preprocessing
-
-will be released in the future.
-
-**Status:** ⏳ Coming Soon
+The complete implementation will be released in the future.
 
 ## Code
 
