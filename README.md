@@ -35,8 +35,7 @@ Here, /s_g corresponds to the Gaze-Projected Heatmap, and /fix_map corresponds t
 
 **Download:**
 
-- Google Drive: **[GT Download Link](YOUR_GT_LINK)**
-- Baidu Netdisk (optional): **[Baidu Link](YOUR_BAIDU_LINK)** (Code: XXXX)
+- Baidu Netdisk (optional): **[Baidu Link](https://pan.baidu.com/s/1AcHj05xz4Gy4wRT47nK5Wg?pwd=qzqu)** (Code: qzqu)
 
 ---
 
