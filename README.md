@@ -4,7 +4,7 @@ Official repository for **EraW-Net: Enhance-Refine-Align W-Net for Scene-Associa
 
 > 🚧 This repository is under active development.
 
----
+
 
 ## News
 
@@ -12,7 +12,7 @@ Official repository for **EraW-Net: Enhance-Refine-Align W-Net for Scene-Associa
 - **[Available]** Dataset split files.
 - **[Available]** Evaluation code.
 - **[Coming Soon]** Training and inference code.
----
+
 
 ## Ground Truth (GT)
 
@@ -37,7 +37,7 @@ Here, /s_g corresponds to the Gaze-Projected Heatmap, and /fix_map corresponds t
 
 - Baidu Netdisk (optional): **[Baidu Link](https://pan.baidu.com/s/1xz8-5DYuziF5P4QJiCEyVg?pwd=ut13)** (Code: ut13)
 
----
+
 
 ## Dataset Split
 
@@ -48,7 +48,6 @@ dataset_split/
 ├── train_test_spilt_all.json
 ```
 
-### Validation Set
 The provided `train_test_spilt_all.json` contains the complete split. Users can reproduce our setting by randomly selecting **20% of the training samples as the validation set**.
 
 ---
@@ -72,13 +71,12 @@ Our implementation is built upon the official implementation of **Look Both Ways
 
 We sincerely thank the authors for making their code publicly available.
 
----
+
 
 ## Credits
 
 We would like to acknowledge the authors of the **Look Both Ways** project for providing the open-source implementation that served as the foundation of this work.
 
----
 
 ## Citation
 
