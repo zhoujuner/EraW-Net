@@ -77,6 +77,7 @@ We sincerely thank the authors for making their code publicly available.
 ## Credits
 
 We would like to acknowledge the authors of the **Look Both Ways** project for providing the open-source implementation that served as the foundation of this work.
+
 ---
 
 ## Citation
