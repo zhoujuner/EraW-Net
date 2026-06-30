@@ -45,7 +45,7 @@ dataset_split/
 ├── train_test_spilt_all.json
 ```
 
-The provided `train_test_spilt_all.json` contains the complete split. Users can reproduce our setting by randomly selecting **20% of the training samples as the validation set**.
+The provided `train_test_spilt_all.json` contains the complete split. Users can reproduce our setting by randomly selecting 20% of the training samples as the validation set.
 
 ---
 
