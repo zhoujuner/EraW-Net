@@ -71,9 +71,7 @@ The complete implementation will be released in the future.
 
 ## Acknowledgements
 
-Our implementation is built upon the official implementation of **Look Both Ways**:
-
-> https://github.com/Kasai2020/look_both_ways
+Our implementation is built upon the official implementation of **Look Both Ways**(https://github.com/Kasai2020/look_both_ways): 
 
 We sincerely thank the authors for making their code publicly available.
 
