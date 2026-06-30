@@ -60,9 +60,9 @@ The provided `train_test_spilt_all.json` contains the complete split. Users can 
 ## Evaluation
 
 We provide the evaluation scripts used in our experiments.
-- Metric implementation: [`evaluation/metrics.py`](evaluation/metrics.py)
+- Metric implementation: [`evaluation/metrics.py`](evaluation/metrics.py) Currently supported metrics include:CC, SIM, NSS, KLD. 
 - Example usage: [`evaluation/evaluate_example.py`](evaluation/evaluate_example.py)
-Currently supported metrics include:CC, SIM, NSS, KLD. 
+
 
 
 ## Code
