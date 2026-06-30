@@ -1,16 +1,12 @@
 # EraW-Net: Enhance-Refine-Align W-Net for Scene-Associated Driver Attention Estimation
 
-Official repository for **EraW-Net: Enhance-Refine-Align W-Net for Scene-Associated Driver Attention Estimation**.
+This is the official repository for the paper:
 
-## Paper
+> **EraW-Net: Enhance-Refine-Align W-Net for Scene-Associated Driver Attention Estimation**  
+> Jun Zhou, Chunsheng Liu, Faliang Chang, Wenqian Wang, Penghui Hao, Yiming Huang, and Zhiqiang Yang  
+> *IEEE Transactions on Multimedia, 2025*  
+> [[Paper]](https://ieeexplore.ieee.org/abstract/document/10988653)
 
-> **IEEE Transactions on Multimedia, 2025**
-
-**Authors**
-
-Jun Zhou, Chunsheng Liu, Faliang Chang, Wenqian Wang, Penghui Hao, Yiming Huang, and Zhiqiang Yang
-
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/10988653) 
 ## Abstract
 
 Associating driver attention with driving scene across two fields of view is a challenging cross-domain perception problem, which requires comprehensive consideration of cross-view mapping, dynamic driving scene analysis and driver status tracking. Previous methods typically analyze a single view or map attention to the scene through a two-step projection, failing to exploit their implicit connections and establish accurate associations. Moreover, simple fusion modules are inadequate for modeling the complex relationships between the two views, making information integration complicated. To address these issues, we propose EraW-Net, a novel end-to-end framework for scene-associated driver attention estimation by aggregating information from dual views. This method enhances the most discriminative dynamic cues, refines feature representations, and facilitates semantically aligned cross-domain integration through a W-shaped architecture, termed W-Net. Specifically, a Dynamic Adaptive Filter Module (DAF-Module) is proposed to address the challenges of frequently changing driving environments by extracting vital regions. It suppresses the indiscriminately recorded dynamics and highlights crucial ones by innovative joint frequency-spatial analysis, enhancing the model's ability to parse complex dynamics. Additionally, to track driver states during non-fixed facial poses, we propose a Global Context Sharing Module (GCS-Module) to construct refined feature representations by capturing hierarchical features that adapt to various scales of head and eye movements. Finally, W-Net achieves systematic cross-view information integration through its unique two-stage decoding strategy, addressing semantic misalignment in heterogeneous data integration. Experiments demonstrate that the proposed method robustly and accurately estimates scene-associated driver attention on large public datasets. 
