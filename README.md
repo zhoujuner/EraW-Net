@@ -2,9 +2,6 @@
 
 Official repository for **EraW-Net: Enhance-Refine-Align W-Net for Scene-Associated Driver Attention Estimation**.
 
-> 🚧 This repository is under active development.
-
-
 
 ## News
 
