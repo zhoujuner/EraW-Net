@@ -16,8 +16,6 @@ Associating driver attention with driving scene across two fields of view is a c
 - **[Available]** Ground-truth attention maps.
 - **[Available]** Dataset split files.
 - **[Available]** Evaluation code.
-- **[Coming Soon]** Training and inference code.
-
 
 ## Ground Truth (GT)
 
