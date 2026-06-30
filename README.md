@@ -89,11 +89,12 @@ If you find this work useful, please consider citing:
 }
 ```
 
----
-
 
 ---
 
 ## License
 
-This project is released under the MIT License.
+
+The released ground-truth maps, dataset splits, and evaluation code are provided for research purposes only.
+
+If you use these resources in your work, please cite our paper.
