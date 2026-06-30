@@ -69,7 +69,7 @@ Currently supported metrics include:CC, SIM, NSS, KLD.
 
 The complete implementation will be released in the future.
 
-## Code
+## Acknowledgements
 
 Our implementation is built upon the official implementation of **Look Both Ways**:
 
